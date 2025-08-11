@@ -1,4 +1,3 @@
 rose
 lily
-lotus
 
